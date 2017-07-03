@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "658439145738",
+    "firebase_url": "https://chatdemo-ac3d5.firebaseio.com",
+    "project_id": "chatdemo-ac3d5",
+    "storage_bucket": "chatdemo-ac3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658439145738:android:bd6a1568c82feab3",
+        "android_client_info": {
+          "package_name": "syaiful.learn.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658439145738-7jmaq1vd23fmbhtfoq9p6jtg44do4qec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "syaiful.learn.logingoogle",
+            "certificate_hash": "b0d3f240085330b547f630d97370671af52142ee"
+          }
+        },
+        {
+          "client_id": "658439145738-dqvv1v44ovfl4rjjbpi6158vjheag361.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "syaiful.learn.logingoogle",
+            "certificate_hash": "4461c61435d8d176fbb77938739c084895f7eacd"
+          }
+        },
+        {
+          "client_id": "658439145738-pd6gr9ieas5rrv6jco9942k2lgnrreu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "syaiful.learn.logingoogle",
+            "certificate_hash": "e7a4d717be8a9f9b3a252b4b30f30b2a257f35ba"
+          }
+        },
+        {
+          "client_id": "658439145738-amedrbokjbee42h24b4912ijbhve9be4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "syaiful.learn.logingoogle",
+            "certificate_hash": "92f30cb701999c3ee1350b0db0ea1f38590d715c"
+          }
+        },
+        {
+          "client_id": "658439145738-ppb9dji00i9uij9p7o23g5p3p0c28roo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYi16kLSSzAP-NCAqhywsDVBaX9354hR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658439145738-ppb9dji00i9uij9p7o23g5p3p0c28roo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

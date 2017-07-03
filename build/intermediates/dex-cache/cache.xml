@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/syaiful9508/.android/build-cache/380c0984ad832fd854daf73087f27a9a86db3f37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/media/syaiful9508/My Data/Firebase/Learn/loginG+/G+Login2/app/build/intermediates/pre-dexed/debug/classes_f32b411098027e07e2d25fa4a1a56ca4df51c7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syaiful9508/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/media/syaiful9508/My Data/Firebase/Learn/loginG+/G+Login2/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.4.0_bca91beaa61540392d2240a5d1d5fd04d6d6ebb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syaiful9508/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/media/syaiful9508/My Data/Firebase/Learn/loginG+/G+Login2/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_7321541e53c8233b813207e431213c966248227c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syaiful9508/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/media/syaiful9508/My Data/Firebase/Learn/loginG+/G+Login2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f0a64bed01928bc628fa50704be330fa0676617b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/syaiful9508/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/media/syaiful9508/My Data/Firebase/Learn/loginG+/G+Login2/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.4.0_defedab033b082f3b6e97d627ce4dda297ac2b24.jar" />
+    </item>
+
+</items>

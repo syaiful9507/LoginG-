@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">G+Login2</string>
+    <string name="loading">Loading…</string>
+    <string name="log_error_occurred">"Error occurred: "</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="web_client_id">658439145738-in4hef5eqkuenmefeckee6hmf4sart2t.apps.googleusercontent.com</string>
+</resources>
